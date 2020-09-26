@@ -1,4 +1,4 @@
-# AgriTech
+# AgriTech 4.0
 Internet of Things has revolutionized all the sectors, however in Agriculture there are still a plethora of problems plaguing the farmers. For instance the unavailability of proper information on real-time weather and soil conditions of his land at his disposal, and the lack of smart and integrated machinery to do automation during the times of unconventional weather and environmental situations. These vacuums in agriculture demands the digitization of the ecosystem and building a complete end to end automatized digital solution. 
 
 We are taking the initiative to build a fully decentralized solution which allows for the farmers, 
