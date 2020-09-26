@@ -38,9 +38,9 @@ python ./scripts/retrain.py --imagedir <pathtoimages>
 4. Complete pipeline output\\
 Get best crop to grow from soil image taking into consideration price prediction after harvest time.
 ```
-python ./scripts/label_image.py
+python ./scripts/label_image.py```
 
 ## Usecase 1: Marketplace app
 
 For setting and running the marketplace app, visit the frontend folder and follow the instructions
-```
+
