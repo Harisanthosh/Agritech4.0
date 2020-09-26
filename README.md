@@ -17,6 +17,10 @@ Developed at Hack your Future 2020
 3. Numpy
 4. Pandas
 
+## Usecase 1: Marketplace app
+
+For setting and running the marketplace app, visit the frontend folder and follow the instructions
+
 ## Usecase 2: Price Prediction
 1. First scrape crop prices data from agmarknet.gov.in using python web scraping website beautiful soup.
 ```
@@ -40,7 +44,5 @@ Get best crop to grow from soil image taking into consideration price prediction
 ```
 python ./scripts/label_image.py```
 
-## Usecase 1: Marketplace app
 
-For setting and running the marketplace app, visit the frontend folder and follow the instructions
 
