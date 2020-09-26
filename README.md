@@ -1,6 +1,6 @@
 # AgriTech
 An app with deep learning model to predict compatibility using soil images and also assists in minimising loss at harvest time by predicting prices.
-Developed at IndiaHacks 2017
+Developed at Hack your Future 2020
 
 ## Requirements
 1. Beautiful Soup
